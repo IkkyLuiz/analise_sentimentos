@@ -46,6 +46,3 @@ A frase, dita com esse tom e sotaque, causa uma sensação de acolhimento e leve
 - Analisar ironia, sarcasmo e mudanças sutis de humor
 - Usar modelos automáticos de transcrição quando disponíveis
 
----
-
-Se quiser, posso adaptar esse texto para um projeto específico, colocar em inglês ou adicionar um badge bonito de "em construção", por exemplo. Deseja alguma dessas opções?
